@@ -1,11 +1,11 @@
 # openclaw_learning_plan
 OpenClaw Mastery Plan: A 30-Day Roadmap to Automation Excellence
 
-**Program Overview and Primary Goal**
+## **Program Overview and Primary Goal**
 
 This roadmap is designed to transition an operator from basic tool usage to advanced automation orchestration within the OpenClaw ecosystem. The objective is to achieve technical maturity through a disciplined, 30-day curriculum focused on hands-on execution, sophisticated skill chaining, and robust state management. By the conclusion of this program, you will have architected a persistent, self-documenting automation environment capable of executing complex workflows with minimal oversight.
 
-**Week 1: Foundations & The Workspace**
+### **Week 1: Foundations & The Workspace**
 
 The initial phase focuses on deconstructing the OpenClaw architecture and establishing the agent's behavioral constraints.
 
@@ -30,7 +30,7 @@ The initial phase focuses on deconstructing the OpenClaw architecture and establ
   * [ ] Update IDENTITY.md to reflect a coherent name, creature type, and vibe.
   * [ ] Document the initial goals of this 30-day plan in the current daily log.
 
-**Week 2: Practical Automation & Skill Integration**
+### **Week 2: Practical Automation & Skill Integration**
 
 Week two shifts from environmental setup to the execution of multi-step workflows and the implementation of primitive state persistence.
 
@@ -49,7 +49,7 @@ Week two shifts from environmental setup to the execution of multi-step workflow
   * [ ] Logic: Prompt -> Fetch State -> Execute Skill -> Update State.
   * [ ] Verify the agent can read last_city.txt to provide contextually aware summaries.
 
-**Week 3: Memory, State Management & Orchestration**
+### **Week 3: Memory, State Management & Orchestration**
 
 This phase elevates the operator to multi-agent management and complex orchestration patterns.
 
@@ -67,7 +67,7 @@ This phase elevates the operator to multi-agent management and complex orchestra
   * [ ] Utilize sessions_send to dispatch commands to task-manager agents.
   * [ ] Monitor task completion status using sessions_history.
 
-**Week 4: Advanced Concepts, Best Practices & Refinement**
+### **Week 4: Advanced Concepts, Best Practices & Refinement**
 
 The final week focuses on scaling the environment, ensuring safety, and formalizing the capstone automation.
 
@@ -87,7 +87,7 @@ The final week focuses on scaling the environment, ensuring safety, and formaliz
   * [ ] Outline 1–2 high-complexity automations for future deployment.
   * [ ] Commit these technical specifications to MEMORY.md.
 
-**Ongoing Maintenance & Experimental Practices**
+### **Ongoing Maintenance & Experimental Practices**
 
 Consistency in logging and troubleshooting is the hallmark of a Senior Technical Architect.
 
@@ -98,7 +98,7 @@ Consistency in logging and troubleshooting is the hallmark of a Senior Technical
   * [ ] Clearly describe the technical blocker.
   * [ ] Enumerate all attempted solutions and their resulting failure modes.
 
-**Architect’s Standard Operating Procedures (SOPs)**
+### **Architect’s Standard Operating Procedures (SOPs)**
 
 To maintain environmental stability, all technical executions must follow these standards:
 
@@ -109,7 +109,7 @@ To maintain environmental stability, all technical executions must follow these 
 * [ ] Data Integrity Standard:
   * [ ] All saved outputs must include ISO-8601 timestamps and a concise summary of the operation.
 
-**Strategic Tips for Success**
+### **Strategic Tips for Success**
 
 * Start Small: Master a single tool-chain per week before attempting multi-agent orchestration.
 * Guardrails First: Architecture is only as good as its safety constraints. Always validate tool arguments before execution.
