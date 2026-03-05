@@ -4,11 +4,11 @@ Goal: Master OpenClaw automation through hands-on tasks, skill chaining, and dis
 Week 1: Foundations & The Workspace
 [ ] Read and reflect on OpenClaw architecture: Agents, Skills, Workspace, Memory
 [ ] Explore the workspace files
-[ ] AGENTS.md
-[ ] SOUL.md
-[ ] USER.md
-[ ] IDENTIY.md
-[ ] MEMORY.md
+    [ ] AGENTS.md
+    [ ] SOUL.md
+    [ ] USER.md
+    [ ] IDENTIY.md
+    [ ] MEMORY.md
 [ ] Understand Memory systems
 [ ] Distinguish MEMORY.md from memory/YYYY-MM-DD.md daily logs
 [ ] Learn how to find and install skills
